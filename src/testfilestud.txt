@@ -1,0 +1,104 @@
+Name: gg
+Last Name: hh
+Home Adress: 82882 hdhhd
+Major: dkkd
+GPA: 3.4
+Amount Of Credits: 33
+Year: 4
+
+Name: yy
+Last Name: uu
+Home Adress: 2782 gdgdg
+Major: kdkd
+GPA: 3.5
+Amount Of Credits: 33
+Year: 8
+
+Name: mnmn
+Last Name: lplp
+Home Adress: 82828 shshsh
+Major: jsjs
+GPA: 3.6
+Amount Of Credits: 77
+Year: 80
+
+Name: hsh
+Last Name: hsh
+Home Adress: 277s ss
+Major hshsh
+GPA: 3.4
+Amount Of Credits: 22
+Year: 4
+
+Name: jj
+Last Name: jeje
+Home Adress: 2773 ggd
+Major dhhd
+GPA: 3.8
+Amount Of Credits: 44
+Year: 6
+
+Name: ron
+Last Name: ls
+Home Adress: 17827 sggs
+Major com
+GPA: 3.4
+Amount Of Credits: 120
+Year: 0
+
+Name: 
+Last Name: 
+Home Adress: 
+Major 
+GPA: 0
+Amount Of Credits: 0
+Year: 0
+
+Name: 
+Last Name: 
+Home Adress: 
+Major 
+GPA: 0
+Amount Of Credits: 0
+Year: 0
+
+Name: 
+Last Name: 
+Home Adress: 
+Major 
+GPA: 0
+Amount Of Credits: 0
+Year: 0
+
+Name: 
+Last Name: 
+Home Adress: 
+Major 
+GPA: 0
+Amount Of Credits: 0
+Year: 0
+
+Name: ron
+Last Name: kkss
+Home Adress: 1727 shhsh
+Major cjjs
+GPA: 3.2
+Amount Of Credits: 120
+Year: 4
+
+Name: jdjd
+Last Name: jjdj
+Home Adress: 1772 shhs ahsh
+Major jhshha
+GPA: 3.455
+Amount Of Credits: 13
+Year: 5
+
+Name: djjd
+Last Name: jjdjd
+Home Adress: 81827 shhhs
+Major djjs
+GPA: 3.8
+Amount Of Credits: 172
+Year: 4
+
